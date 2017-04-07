@@ -1,2 +1,8 @@
-node_modules
+# IntelliJ
 .idea
+
+# Node
+node_modules
+
+# Webpack
+build
